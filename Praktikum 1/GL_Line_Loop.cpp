@@ -8,7 +8,7 @@ Ananda Putra Bayu
 void
 LineLoop(void)
 {
-	glClear(GL_COLOR_BUFFER_BIT);
+glClear(GL_COLOR_BUFFER_BIT);
     glBegin(GL_LINE_LOOP);
     glVertex2f(-0.5, 0.0);
     glVertex2f(0.0, 0.5);
